@@ -1,17 +1,16 @@
 # Vijay Annapureddy
 ### *hivijayreddy@gmail.com*
-### *408-338-8747*
 
 
 ## **Education**
 
-- **Polytechnic Institute of New York University, Brooklyn, NY, 2011              August 2011- May 2013**
+- **Polytechnic Institute of New York University, Brooklyn, NY, August 2011- May 2013**
 
   Masters of Science in Computer Science
   GPA: 3.6/4.0
 
 
-- **Dhirubhai Ambani Institute of Information and Communication Technology, India      June 2007 – May 2011**
+- **Dhirubhai Ambani Institute of Information and Communication Technology, India, June 2007 – May 2011**
 
   Bachelors of Technology in Information and Communication Technology
   GPA: 3.0/4.0
