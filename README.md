@@ -3,10 +3,6 @@
 ### *408-338-8747*
 
 
-## **Objective**
-- Looking for a position to facilitate and enhance my Programming and Software development skills for the betterment of both social and computer networks.
-
-
 ## **Education**
 
 - **Polytechnic Institute of New York University, Brooklyn, NY, 2011              August 2011- May 2013**
