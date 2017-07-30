@@ -25,7 +25,7 @@
 
 ## **Experience**
 
-- **ShareThis, Palo Alto: Senior Software Engineer                        November 2015 - Present** 
+- **ShareThis, Palo Alto: Senior Software Engineer, November 2015 - Present** 
 
   - Architected and developed social analytics and counts services provided by ShareThis.
   - I develop RESTful APIs, backend services and tools used internally at ShareThis.
@@ -33,18 +33,18 @@
   - Provided mentorship and on boarding for new Software Engineers at ShareThis.
 
 
-- **VMware, Palo Alto: Member of Technical Staff                           May 2013- November 2015**
+- **VMware, Palo Alto: Member of Technical Staff, May 2013- November 2015**
 
   - Developed and maintained feature requests for vCenter Single Sign On (SSO).
   - Maintained and developed VMware Update Manager(VUM), an upgrade agent for vSphere. 
   - Resolved VMware customer issues and handled customer escalations.
 
 
-- **Ericsson, San Jose: Software Development Intern                           May 2012- March 2013**
+- **Ericsson, San Jose: Software Development Intern, May 2012- March 2013**
 
   - Developed the Unit Test Frame work to test the Label Manager and Routing information base modules on the simulation environment named SSR-SIM.
   - Developed an automation script that brings up a router simulation environment, which otherwise would have required unfruitful time and human interaction.
 
-- **Seattle, NYU Poly: open-source                                           October 2011-Dec 2012**
+- **Seattle, NYU Poly: open-source, October 2011-Dec 2012**
 
   - Volunteered for open-source project “Seattle” and it provided me an opportunity to gain experience in cloud and sand boxing technologies.
